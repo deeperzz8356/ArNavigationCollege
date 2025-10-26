@@ -44,7 +44,7 @@ The application features:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ar-navigation.git
+git https://github.com/deeperzz8356/ArNavigationCollege.git
 cd ar-navigation
 ```
 
