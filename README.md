@@ -3,7 +3,7 @@
 
 An immersive augmented reality indoor navigation system built with React, Three.js, and WebXR. Navigate through indoor spaces with animated 3D path indicators and real-time AR visualization.
 
-![AR Navigation Demo]([https://github.com/deeperzz8356/ArNavigationCollege/blob/main/file.svg])
+![AR Navigation Demo]([https://github.com/deeperzz8356/ArNavigationCollege/blob/main/image.png])
 
 
 ## ✨ Features
