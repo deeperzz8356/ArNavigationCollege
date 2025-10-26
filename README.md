@@ -186,9 +186,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@Deepkumar pandey](https://www.linkedin.com/in/deepkumar-pandey/)
 
-Project Link: [https://github.com/yourusername/ar-navigation](https://github.com/yourusername/ar-navigation)
+Project Link: [https://github.com/deeperzz8356/ar-navigation](https://deeperzz8356.github.io/ArNavigationCollege/)
 
 ---
 
